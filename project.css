@@ -1,0 +1,105 @@
+.portfolio-container{
+    background-color:indigo;
+    height: 230vh;
+    width: 80vh;
+}
+.icon{
+    color: #fff;
+    padding:5px;
+    height: 5vh;
+}
+.bar{
+        float: right;
+        color: #fff;
+        padding:5px;
+        height: 5vh;  
+}
+.portfolio-card{
+    background-color: yellow;
+    width: 80vh;
+    height:38vh;
+
+}
+.portfolio{
+    background-image: url(down.jpeg);
+    background-size: cover;
+    width:230vh;
+    height: 38vh;
+    margin:35px;
+}
+.head{
+    color:#fff;
+    position: absolute;
+    top:40%;
+    transform: translate(20%,30%);
+    font-size:50px;
+}
+.para{
+    color:indigo;
+    font-size: 10px;
+    text-align:center;
+    padding: 35px 35px;
+}
+.google{
+    text-decoration: underline;
+
+}
+.angle{
+    color:black;
+    height: 20vh;
+    width:20vh;
+}
+.design{
+    font-size:50px;
+    padding:10px;
+    color:#fff;
+}
+.design-para{
+    color:#fff;
+    font-size:10px;
+}
+.button{
+    color:indigo;
+    font-size: 12px;
+    background-color: yellow;
+    width:20vh;
+    height:5vh;
+}
+.imgs{
+    height:20vh;
+    width:20vh;
+}
+.button2{
+    color:indigo;
+    font-size: 12px;
+    background-color: yellow;
+    width:20vh;
+    height:5vh;
+    margin:0px auto;
+    display: block;
+}
+.label{
+    color:gray;
+    font-size: 12px;
+    padding:7px;
+    margin:7px;
+}
+.line{
+    color: indigo;
+}
+.sub{
+    background-color: yellow;
+    width:13vh;
+}
+.contact{
+    color:indigo;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 23px;
+}
+.icons{
+    color:indigo;
+}
+.num{
+    color:indigo;
+}
